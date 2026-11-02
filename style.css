@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Quake';
+    src: url('fonts/Quake.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Quake', sans-serif;
+    font-size: 72px;
+    text-align: center;
+}
+h1 {
+    font-family: 'Quake', sans-serif;
+    font-size: 108px;
+
+}
